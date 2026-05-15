@@ -1,0 +1,76 @@
+---
+title: "Lugares secretos: Viceparroquia Nuestra Señora de los Dolores"
+subtitle: "Loica, San Pedro. Región Metropolitana"
+date: "2026-05-14"
+image: parroquia_loica_7.jpeg
+format: html
+categories: 
+  - lugares
+  - fotos
+editor_options: 
+  chunk_output_type: console
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+Recorriendo la [Brevet 300 hacia la Central Rapel](/posts/brevet/brevet_300_rapel), en el poblado de **Loica**, comuna de San Pedro, encontré una iglesia abandonada! Para cruzar a ella había que pasar por un puente metálico. 
+
+::: {.foto .centrar}
+![](parroquia_loica_1.jpeg){.lightbox}
+:::
+
+La iglesia se veía en mal estado de conservación por fuera, con una reja para impedir el paso directo. Pero esto no me impidió acercarme a explorarla!
+
+
+::: {.mapa}
+```{r}
+#| cache: true
+
+library(mapgl)
+library(sf)
+
+coordenadas <- c(-71.48135, -33.96850)
+
+punto <- coordenadas |> 
+  st_point() |> 
+  st_sfc(crs = 4326)
+
+maplibre(
+  style = carto_style("dark-matter"),
+  center = coordenadas,
+  zoom = 13,
+  tilt = 30,
+  attribution_control = FALSE
+) |>
+  add_markers(data = punto,
+              color = "#DD2694")
+```
+:::
+
+La iglesia tenía una torre de madera preciosa, con un detalle en forma de sol amarillo al frente, y un portón de madera cerrado con candado.
+
+::: {.galeria}
+![](parroquia_loica_1.jpeg){.fotito .lightbox group="Afuera"}
+![](parroquia_loica_2.jpeg){.fotito .lightbox group="Afuera"}
+![](parroquia_loica_3.jpeg){.fotito .lightbox group="Afuera"}
+![](parroquia_loica_4.jpeg){.fotito .lightbox group="Afuera"}
+:::
+
+Por la parte lateral de la iglesia habían habitaciones de la parroquia, y una puerta de acceso a la iglesia construida recientemente. No había nadie al rededor y la puerta estaba abierta, así que entré:
+
+::: {.galeria}
+![](parroquia_loica_5.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_6.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_7.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_8.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_9.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_10.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_11.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_12.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_13.jpeg){.fotito .lightbox group="Adentro"}
+![](parroquia_loica_14.jpeg){.fotito .lightbox group="Adentro"}
+:::
+
+Al entrar volaron muchas palomas que habitaban la parroquia. Por dentro era como una cápsula del tiempo, pero se notaba que han hecho trabajos recientemente. Tenía una escalera de caracol metálica preciosa, pero no quise subir por el mal estado de la estructura.

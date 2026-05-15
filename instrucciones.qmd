@@ -46,3 +46,9 @@ Borrar el `max-width:660px;`
 ::::
 ```
 
+#### Strava
+```
+::: {.strava .centrar}
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="17544173681" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+:::
+```
