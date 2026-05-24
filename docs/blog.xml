@@ -10,7 +10,36 @@
 <atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Thu, 14 May 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Tocata: Worms Fest 3 en Bar Óxido</title>
+  <link>https://bastimapache.cl/posts/musica/tocata_2026-05-15/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Worms fest 3, tocata de deathcore y slamming death metal en Bar Óxido, Santiago de Chile. Las terribles bandas como Kenopsya, Wretched Anomaly, Flaytectomy, Ohwurm y Vertebra.</p>
+<div class="centrar">
+<div class="tiktok">
+<iframe src="https://www.tiktok.com/embed/v2/7641012044468178196" height="740" width="400">
+</iframe>
+</div>
+</div>
+<div class="foto centrar">
+<p><img src="https://bastimapache.cl/posts/musica/tocata_2026-05-15/afiche.jpg" class="img-fluid"></p>
+</div>
+
+
+
+ ]]></description>
+  <category>música</category>
+  <category>videos</category>
+  <guid>https://bastimapache.cl/posts/musica/tocata_2026-05-15/</guid>
+  <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/musica/tocata_2026-05-15/IMG_1914.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Lugares secretos: Viceparroquia Nuestra Señora de los Dolores</title>
   <link>https://bastimapache.cl/posts/explorando_loica/</link>
@@ -1901,36 +1930,6 @@ Ver esta publicación en Instagram
   <category>ciclismo</category>
   <category>destacado</category>
   <guid>https://bastimapache.cl/posts/brevet/brevets.html</guid>
-  <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Álbumes del mes: enero 2026</title>
-  <link>https://bastimapache.cl/posts/musica/albumes_2026-01/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Álbumes más escuchados según <a href="https://www.last.fm/user/bastimapache">mi perfil de Last.fm</a>. Incluye discazos como el nuevo de Deafheaven, discos de Ragana, y The Body.</p>
-<div class="foto centrar">
-<p><a href="lastfm-bastimapache-album-grid-2026-01.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://bastimapache.cl/posts/musica/albumes_2026-01/lastfm-bastimapache-album-grid-2026-01.jpg" class="img-fluid"></a></p>
-</div>
-<p><i class="fa-solid fa-music" aria-label="music"></i> Este mes escuché más black metal, noise, y metal progresivo.</p>
-<section id="álbumes-destacados" class="level3">
-<h3 class="anchored" data-anchor-id="álbumes-destacados">Álbumes destacados</h3>
-<ul>
-<li><em>Goldstar</em>, de los gigantes <a href="https://www.last.fm/music/Imperial+Triumphant">Imperial Triumphant</a>, que mezclan metal progresivo pesado y oscuro con tintes de jazz y una estética art déco. Además <a href="../../../posts/musica/conciertos/">vinieron a Chile</a> este mes.</li>
-<li><em>Lonely People With Power</em>, nuevo disco de <a href="https://www.last.fm/music/Deafheaven">Deafheaven</a>, una de mis bandas favoritas y uno de los gigantes del blackgaze. Álbum culiao increíble de principio a fin.</li>
-<li><em>Desolation’s Flower</em> y <em>Ash Souvenir</em> de <a href="https://www.last.fm/music/Ragana/">Ragana</a>, una banda femenina increíble de black metal experimental, atmosférico y pesado.</li>
-</ul>
-
-
-</section>
-
- ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/albumes_2026-01/</guid>
   <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>

@@ -1,0 +1,20 @@
+---
+title: "Tocata: Worms Fest 3 en Bar Óxido"
+format: html
+date: "2026-05-15"
+image: IMG_1914.jpeg
+categories: [música, videos]
+---
+
+Worms fest 3, tocata de deathcore y slamming brutal death metal en Bar Óxido, Santiago de Chile. Las terribles bandas como Kenopsya, Wretched Anomaly, Flaytectomy, Ohwurm y Vertebra.
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7641012044468178196" height="740" width="400"></iframe>
+:::
+::::
+
+
+::: {.foto .centrar}
+![](afiche.jpg)
+:::
