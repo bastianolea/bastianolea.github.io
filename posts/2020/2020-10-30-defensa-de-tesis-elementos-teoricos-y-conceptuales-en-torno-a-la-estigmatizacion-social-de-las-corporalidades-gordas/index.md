@@ -339,7 +339,7 @@ Definición de **estigma:**
         - _Medios socialmente adquiridos_ de **lectura** (Grosz 1995)
 
 - La **percepción** no es resultado del sentido de la vista, sino de una _práctica perceptual específica_ (Alcoff, 1999)
-    - los significados provienen de _saberes contextuales sedimentados_(Alcoff 1999)
+    - los significados provienen de _saberes contextuales sedimentados_ (Alcoff 1999)
     
     - la percepción es un _efecto discursivo que produce a los objetos que observa_ (Murray 2007), como en Foucault los discursos forman a los objetos que describen (Foucault 2002a)
     
@@ -368,7 +368,7 @@ Definición de **estigma:**
     
     - la agudización de los ideales corporales es un hecho, pero sigue siendo puntos válidos de _comparación_ social (Fallon 1990)
     
-    - **optimismo cruel:** la belleza es figurada como lograble (optimismo), pero su ideal se distancia de lo posible, por lo que debe ser postercago (cruel) (Berlanr 2011, Coleman 2010)
+    - **optimismo cruel:** la belleza es figurada como lograble (optimismo), pero su ideal se distancia de lo posible, por lo que debe ser postergado (cruel) (Berlant 2011, Coleman 2010)
     
     - perfección de lo pulcro, liso e impecable, perfección abstracta y digital (Han 2013, 2015)
         - _eliminación de lo negativo,_ la alteridad, la crítica, lo humano, lo inconsumible
@@ -382,7 +382,7 @@ Definición de **estigma:**
     
     - el ideal sociocultural plantea la _equivalencia entre delgadez y belleza_ (Rothblum, 1992, p. 68; Thompson, 1990; Tischner y Malson, 2011, p. 21; Wiseman et al., 1992; Donaghue y Clemitshaw, 2012; Nutter et al., 2016; Wolf, 1991)
     
-    - dependen del nivel de _adecuación a prescripción de belleza_(Tiggemann 2011)
+    - dependen del nivel de _adecuación a prescripción de belleza_ (Tiggemann 2011)
     
     - existe un ideal _personal_ y uno _social,_ basado en cánones colectivos de belleza (Giacoman 2013)
     
@@ -400,9 +400,9 @@ Definición de **estigma:**
 - la belleza comprende coincidencia con apariencias normativas masculinas y femeninas (Kuipers 2016)
 
 - una apariencia que no se condice con el binario heteronormado de género resulta “otra” (Cregan 2012).
-    - Prescripción femenina: silueta delgada, margen de voluptuosidad, adiposidad ginoide. El cuerpo femenino es considerado en necesidad de corrección y embellecimiento (Featherstone 2010), la delgadez es un requerimiento de la feminidad normativa.
+    - **Prescripción femenina:** silueta delgada, margen de voluptuosidad, adiposidad ginoide. El cuerpo femenino es considerado en necesidad de corrección y embellecimiento (Featherstone 2010), la delgadez es un requerimiento de la feminidad normativa.
     
-    - Prescripción masculina: delgadez, abdomen plano, en forma, tamaño dependiente de musculatura. Delgadez representa la virilidad de dominar al cuerpo, expresar disciplina, control y resistencia.
+    - **Prescripción masculina:** delgadez, abdomen plano, en forma, tamaño dependiente de musculatura. Delgadez representa la virilidad de dominar al cuerpo, expresar disciplina, control y resistencia.
 
 - Evaluación diferente según género: hombre-interno, mujer-externo (cuerpo).
     - reproduce el binario de género razón/pasión, mente/cuerpo.
@@ -449,9 +449,9 @@ Definición de **estigma:**
     
     - los sujetos negocian la presión estética mediante la _voluntad y el esfuerzo_
 
-- idea de la cultura de consumo de que los cuerpos ideales son _posibles_(Featherstone 1982)
+- idea de la cultura de consumo de que los cuerpos ideales son _posibles_ (Featherstone 1982)
 
-- el **neoliberalismo** plantea que la belleza es accesible a las _elecciones de consumo y esfuerzo correctas_ (Ercoff 2011)
+- el **neoliberalismo** plantea que la belleza es accesible a las _elecciones de consumo y esfuerzo correctas_ (Etcoff 2011)
     - **moralización de la apariencia**
     
     - cuerpo ideal como logro que simboliza _esfuerzo personal_ (Bieger 2012)
